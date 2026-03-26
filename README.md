@@ -14,7 +14,7 @@ Try the app here: [Air Quality Dashboard](https://partyrock.aws/u/kush07/r-dGqrW
 ## 🖼 App Screenshot
 Here’s a preview of the Air Quality Analysis Dashboard:
 
-![Air Quality App Screenshot](assets/app_screenshot.png)
+![Air Quality App Screenshot](assets/assets.png)
 
 ---
 
@@ -45,5 +45,10 @@ Here’s a preview of the Air Quality Analysis Dashboard:
 
 ---
 
-## ⚖ License
-This project is licensed under the [MIT License](LICENSE).
+[![MIT License](https://img.shields.io/badge/license-MIT-green)](LICENSE) [![Live App](https://img.shields.io/badge/Live_App-Click_here-blue)](https://partyrock.aws/u/kush07/r-dGqrW3D/new-app-r-dGqrW3D)
+
+## 📝 How to Use
+1. Click the **Live App** link above.  
+2. Select a city or location to see AQI trends.  
+3. Explore seasonal charts, pollutant details, and comparisons.
+   
