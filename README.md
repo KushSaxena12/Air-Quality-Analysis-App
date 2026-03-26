@@ -12,10 +12,10 @@ Try the app here: [Air Quality Dashboard](https://partyrock.aws/u/kush07/r-dGqrW
 ---
 
 ## 🖼 App Screenshot
+
 Here’s a preview of the Air Quality Analysis Dashboard:
 
 ![Air Quality App Screenshot](assets/assets.png)
-
 ---
 
 ## 📊 Features
