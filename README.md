@@ -12,11 +12,9 @@ Try the app here: [Air Quality Dashboard](https://partyrock.aws/u/kush07/r-dGqrW
 ---
 
 ## 🖼 App Screenshot
-
 Here’s a preview of the Air Quality Analysis Dashboard:
 
-![Air Quality App Screenshot](assets/assets.png)
----
+![Air Quality App Screenshot](assets.png)
 
 ## 📊 Features
 - 📈 **Monthly AQI trends** – Visualize how air quality changes month-to-month  
