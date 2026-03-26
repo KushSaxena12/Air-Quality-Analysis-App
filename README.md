@@ -1,3 +1,5 @@
+![GitHub license](https://img.shields.io/badge/license-MIT-green) ![Live App](https://img.shields.io/badge/Live_App-Click_here-blue)
+
 # 🌍 Air Quality Analysis App
 
 A **no-code AI app** built with **AWS PartyRock** to analyze AQI trends, pollutants, and seasonal patterns (2023–2024).
